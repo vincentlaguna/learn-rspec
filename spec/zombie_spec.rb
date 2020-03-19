@@ -11,4 +11,7 @@ describe Zombie do
     zombie = Zombie.new
     zombie.should be_hungry #predicate matcher on boolean hungry?
   end
+  
+  #it "pending example"
+  
 end
