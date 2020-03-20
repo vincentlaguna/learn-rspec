@@ -29,10 +29,10 @@ projects as well as my exercises.
 
 #What I have learned so far:
 
--Testing Pyramid
--Red, Green, Refactor
--Examples, Failures, Errors and Pending Examples
--Describe, It, Expect and Helper methods
+Testing Pyramid
+Red, Green, Refactor
+Examples, Failures, Errors and Pending Examples
+Describe, It, Expect and Helper methods
 
 To be continued...
 
