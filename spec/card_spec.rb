@@ -1,6 +1,6 @@
 class Card
   
-  attr_reader :rank, :suite
+  attr_accessor :rank, :suite
   
   def initialize(rank, suite)
     @rank = rank
@@ -9,15 +9,13 @@ class Card
 end
 
 describe Card do
-  before do #hook
-  @card = Card.new('Ace', 'Spades')
-end
+    let (:card) { Card.new('Ace', 'Spades') }
 
   it 'has a rank' do
-    expect(@card.rank).to eq('Ace')
+    expect(card.rank).to eq('Ace')
   end
   
   it 'has a suite' do
-    expect(@card.suite).to eq('Spades')
+    expect(card.suite).to eq('Spades')
   end
 end
