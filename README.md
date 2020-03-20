@@ -35,7 +35,8 @@ projects as well as my exercises.
 - Describe, It, Expect and Helper methods
 - Let syntax for memoiazition and refactoring test code, 
 note* that let! resembles the behaviour of a 'before' method
-- 
+- Custom Error Messages
+- Nested describe blocks for better readability running tests
 
 To be continued...
 
