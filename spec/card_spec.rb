@@ -9,13 +9,15 @@ class Card
 end
 
 describe Card do
+  before do #hook
+  @card = Card.new('Ace', 'Spades')
+end
+
   it 'has a rank' do
-    card = Card.new('Ace', 'Spades')
-    expect(card.rank).to eq('Ace')
+    expect(@card.rank).to eq('Ace')
   end
   
   it 'has a suite' do
-    card = Card.new('Ace', 'Spades')
-    expect(card.suite).to eq('Spades')
+    expect(@card.suite).to eq('Spades')
   end
 end
