@@ -33,6 +33,9 @@ projects as well as my exercises.
 - Red, Green, Refactor
 - Examples, Failures, Errors and Pending Examples
 - Describe, It, Expect and Helper methods
+- Let syntax for memoiazition and refactoring test code, 
+note* that let! resembles the behaviour of a 'before' method
+- 
 
 To be continued...
 
