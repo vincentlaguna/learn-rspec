@@ -38,6 +38,7 @@ note* that let! resembles the behaviour of a 'before' method
 - Custom Error Messages
 - Nested describe blocks for better readability running tests
 - Before and After example and context
+- Nested Hooks for more simple, elegant test code without duplication
 - 
 
 To be continued...
