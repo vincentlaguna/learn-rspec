@@ -39,6 +39,7 @@ note* that let! resembles the behaviour of a 'before' method
 - Nested describe blocks for better readability running tests
 - Before and After example and context
 - Nested Hooks for more simple, elegant test code without duplication
+- Multi-Context Hooks and overwriting 'let' for different contexts
 - 
 
 To be continued...
