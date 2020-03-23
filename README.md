@@ -40,6 +40,7 @@ note* that let! resembles the behaviour of a 'before' method
 - Before and After example and context
 - Nested Hooks for more simple, elegant test code without duplication
 - Multi-Context Hooks and overwriting 'let' for different contexts
+- Implicit Subject for Hashes
 - 
 
 To be continued...
