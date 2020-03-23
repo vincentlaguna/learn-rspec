@@ -42,6 +42,8 @@ note* that let! resembles the behaviour of a 'before' method
 - Multi-Context Hooks and overwriting 'let' for different contexts
 - Implicit Subject for Hashes
 - Using described_class helper to only reference the class under test
+- One-liner syntax using is_expected method for subject
+- 
 
 To be continued...
 
