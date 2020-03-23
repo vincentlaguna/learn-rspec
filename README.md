@@ -41,7 +41,7 @@ note* that let! resembles the behaviour of a 'before' method
 - Nested Hooks for more simple, elegant test code without duplication
 - Multi-Context Hooks and overwriting 'let' for different contexts
 - Implicit Subject for Hashes
-- 
+- Using described_class helper to only reference the class under test
 
 To be continued...
 

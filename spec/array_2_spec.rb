@@ -11,6 +11,7 @@ RSpec.describe Array do
     expect(sally).to eq([1, 2])
   end
 end
+
 =begin
 Create an example group using ​RSpec.describe​ with an argument of ​Array​.
 
