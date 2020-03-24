@@ -34,7 +34,7 @@ projects as well as my exercises.
 - Examples, Failures, Errors and Pending Examples
 - Describe, It, Expect and Helper methods
 - Let syntax for memoiazition and refactoring test code, 
-note* that let! resembles the behaviour of a 'before' method
+note* that let! resembles the behavior of a 'before' method
 - Custom Error Messages
 - Nested describe blocks for better readability running tests
 - Before and After example and context
