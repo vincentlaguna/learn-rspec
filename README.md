@@ -34,7 +34,7 @@ projects as well as my exercises.
 - Examples, Failures, Errors and Pending Examples
 - Describe, It, Expect and Helper methods
 - Let syntax for memoiazition and refactoring test code, 
-note* that let! resembles the behavior of a 'before' method
+note* that let! resembles the behavior future implementation on the Rails apps I am currently working on. of a 'before' method
 - Custom Error Messages
 - Nested describe blocks for better readability running tests
 - Before and After example and context
@@ -44,6 +44,7 @@ note* that let! resembles the behavior of a 'before' method
 - Using described_class helper to only reference the class under test
 - One-liner syntax using is_expected method for subject
 - Using shared_examples method and include_examples to DRY up test code
+- Using shared_context method and include_context for reuse accross multiple examples
 - 
 
 To be continued...
