@@ -43,6 +43,7 @@ note* that let! resembles the behaviour of a 'before' method
 - Implicit Subject for Hashes
 - Using described_class helper to only reference the class under test
 - One-liner syntax using is_expected method for subject
+- Using shared_examples method and include_examples to DRY up test code
 - 
 
 To be continued...
