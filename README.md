@@ -46,7 +46,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Using shared_examples method and include_examples to DRY up test code
 - Using shared_context method and include_context for reuse accross multiple examples
 - Negative assertion using the not_to method
-- 
+- Asserting values vs data types with eq and eql
 
 To be continued...
 
