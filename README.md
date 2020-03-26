@@ -48,6 +48,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Negative assertion using the not_to method
 - Asserting values vs data types with eq and eql
 - Equality vs identity for objects using equal/be
+- Comparison matchers using Ruby built-in operators
 - 
 
 To be continued...
