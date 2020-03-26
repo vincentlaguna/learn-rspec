@@ -47,6 +47,8 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Using shared_context method and include_context for reuse accross multiple examples
 - Negative assertion using the not_to method
 - Asserting values vs data types with eq and eql
+- Equality vs identity for objects using equal/be
+- 
 
 To be continued...
 
