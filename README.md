@@ -13,7 +13,7 @@ future implementation on the Rails apps I am currently working on.
 
 #The Goal:
 
-The goal is to learn RSpec proficiently so that I (and others on the same 
+The goal is to learn RSpec and Ruby proficiently so that I (and others on the same 
 journey as me that decide to follow) can learn to effectively implement 
 a TDD - Test Driven Development approach to Software Development. 
 This will apply directly to my second Rails project laguna-media-arts and 
