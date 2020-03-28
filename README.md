@@ -50,6 +50,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Equality vs identity for objects using equal/be
 - Comparison matchers using Ruby built-in operators
 - Basic Ruby authenticator using a hash, arrary, conditionals and user input
+- Using RSpec predicate matchers for predicate methods in Ruby
 - 
 
 To be continued...
