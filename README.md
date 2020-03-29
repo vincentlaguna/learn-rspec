@@ -52,6 +52,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Basic Ruby authenticator using a hash, arrary, conditionals and user input
 - Using RSpec predicate matchers for predicate methods in Ruby
 - Using the all() matcher method for passing predicate methods or conditions into it
+- Interacting with hashes using user input, loops and string interpolation
 - 
 
 To be continued...
