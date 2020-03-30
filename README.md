@@ -53,6 +53,8 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Using RSpec predicate matchers for predicate methods in Ruby
 - Using the all() matcher method for passing predicate methods or conditions into it
 - Interacting with hashes using user input, loops and string interpolation
+- Assert truthy, falsy and explicit nil values with the be matcher method
+- 
 - 
 
 To be continued...
