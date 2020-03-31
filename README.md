@@ -56,6 +56,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Assert truthy, falsy and explicit nil values with the be matcher method
 - Change matcher to assert changes in object state
 - Contain exactly matcher to assert exact elements within an array
+- Start and end with matchers that assert beginning and end objects
 - 
 
 To be continued...
