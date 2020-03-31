@@ -54,7 +54,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Using the all() matcher method for passing predicate methods or conditions into it
 - Interacting with hashes using user input, loops and string interpolation
 - Assert truthy, falsy and explicit nil values with the be matcher method
-- 
+- Change matcher to assert changes in object state
 - 
 
 To be continued...
