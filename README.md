@@ -55,6 +55,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Interacting with hashes using user input, loops and string interpolation
 - Assert truthy, falsy and explicit nil values with the be matcher method
 - Change matcher to assert changes in object state
+- Contain exactly matcher to assert exact elements within an array
 - 
 
 To be continued...
