@@ -15,7 +15,7 @@ RSpec.describe 'be matchers' do
   
   it 'can test for falsiness' do
     expect(false).to be_falsy
-    expect(nil).to be_falsey
+    expect(nil).to be_falsy
   end
   
   it 'can test for nil' do
