@@ -60,6 +60,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Have attributes matcher to assert attributes given to objects
 - Include matcher for a variety of given values to match object(s) tested
 - Raise error matcher to assert specific error handling correctly including custom errors
+- Respond to matcher to assert objects respond to methods given, also learned about Polymorphism
 - 
 
 To be continued...
