@@ -59,6 +59,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Start and end with matchers that assert beginning and end objects
 - Have attributes matcher to assert attributes given to objects
 - Include matcher for a variety of given values to match object(s) tested
+- Raise error matcher to assert specific error handling correctly including custom errors
 - 
 
 To be continued...
