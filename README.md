@@ -58,6 +58,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Contain exactly matcher to assert exact elements within an array
 - Start and end with matchers that assert beginning and end objects
 - Have attributes matcher to assert attributes given to objects
+- Include matcher for a variety of given values to match object(s) tested
 - 
 
 To be continued...
