@@ -62,6 +62,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Raise error matcher to assert specific error handling correctly including custom errors
 - Respond to matcher to assert objects respond to methods given, also learned about Polymorphism
 - Satisfy matcher to assert blocks given to the matcher
+- Not to method examples reviewing previous methods learned
 - 
 
 To be continued...
