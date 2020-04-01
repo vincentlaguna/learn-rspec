@@ -63,6 +63,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Respond to matcher to assert objects respond to methods given, also learned about Polymorphism
 - Satisfy matcher to assert blocks given to the matcher
 - Not to method examples reviewing previous methods learned
+- Coumpund expectations using and/or methods to combine multiple expectations
 - 
 
 To be continued...
