@@ -64,7 +64,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Satisfy matcher to assert blocks given to the matcher
 - Not to method examples reviewing previous methods learned
 - Coumpund expectations using and/or methods to combine multiple expectations
-- 
+- Using test doubles to stand in for objects in the system
 
 To be continued...
 
