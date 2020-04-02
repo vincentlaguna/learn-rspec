@@ -65,6 +65,8 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Not to method examples reviewing previous methods learned
 - Coumpund expectations using and/or methods to combine multiple expectations
 - Using test doubles to stand in for objects in the system
+- Using test doubles when testing a class to reduce complexity amd time running tests
+- 
 
 To be continued...
 
