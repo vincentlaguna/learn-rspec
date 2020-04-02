@@ -67,6 +67,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Using test doubles to stand in for objects in the system
 - Using test doubles when testing a class to reduce complexity and time running tests
 - How to assert a method is invoked a number of times
+- How to customize return single and multiple values for methods on doubles
 - 
 
 To be continued...
