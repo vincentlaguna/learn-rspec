@@ -66,6 +66,7 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - Coumpund expectations using and/or methods to combine multiple expectations
 - Using test doubles to stand in for objects in the system
 - Using test doubles when testing a class to reduce complexity and time running tests
+- How to assert a method is invoked a number of times
 - 
 
 To be continued...
