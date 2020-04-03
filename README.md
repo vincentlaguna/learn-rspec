@@ -33,8 +33,7 @@ projects as well as my exercises.
 - Red, Green, Refactor
 - Examples, Failures, Errors and Pending Examples
 - Describe, It, Expect and Helper methods
-- Let syntax for memoiazition and refactoring test code, 
-note* that let! resembles the behavior future implementation on the Rails apps I am currently working on. of a 'before' method
+- Let syntax for memoiazition and refactoring test code,
 - Custom Error Messages
 - Nested describe blocks for better readability running tests
 - Before and After example and context
@@ -69,6 +68,8 @@ note* that let! resembles the behavior future implementation on the Rails apps I
 - How to assert a method is invoked a number of times
 - How to customize return values (single and multiple) for methods on doubles
 - Mock behaviors by stubbing matching arguments
+- Using instance doubles to verify the api of the double matches the interface defined in the class
+- Instance doubles ensure higher reliabilty in testing class methods
 - 
 
 To be continued...
