@@ -71,6 +71,7 @@ projects as well as my exercises.
 - Using instance doubles to verify the api of the double matches the interface defined in the class
 - Instance doubles ensure higher reliabilty in testing class methods
 - Class doubles to mock a class and it's behaviors
+- Understand the difference between a spy and a double (note: expectations are before)
 - 
 
 To be continued...
