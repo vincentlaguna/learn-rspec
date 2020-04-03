@@ -72,9 +72,7 @@ projects as well as my exercises.
 - Instance doubles ensure higher reliabilty in testing class methods
 - Class doubles to mock a class and it's behaviors
 - Understand the difference between a spy and a double (note: expectations are before)
-- 
-
-To be continued...
+- Mocking class methods
 
 #Implementation:
 
