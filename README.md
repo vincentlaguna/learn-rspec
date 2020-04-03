@@ -70,6 +70,7 @@ projects as well as my exercises.
 - Mock behaviors by stubbing matching arguments
 - Using instance doubles to verify the api of the double matches the interface defined in the class
 - Instance doubles ensure higher reliabilty in testing class methods
+- Class doubles to mock a class and it's behaviors
 - 
 
 To be continued...
