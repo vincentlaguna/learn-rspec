@@ -29,6 +29,8 @@ projects as well as my exercises.
 
 #What I have learned so far:
 
+(RSpec)
+
 - Testing Pyramid
 - Red, Green, Refactor
 - Examples, Failures, Errors and Pending Examples
@@ -73,6 +75,10 @@ projects as well as my exercises.
 - Class doubles to mock a class and it's behaviors
 - Understand the difference between a spy and a double (note: expectations are before)
 - Mocking class methods
+
+(Ruby Practice)
+
+- BCrypt fundamentals
 
 #Implementation:
 
