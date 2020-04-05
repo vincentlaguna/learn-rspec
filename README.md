@@ -80,7 +80,7 @@ projects as well as my exercises.
 
 - BCrypt fundamentals
 - Creating modules for mixins within classes and .self
-- 
+- Include a module within a class for use on objects
 
 #Implementation:
 

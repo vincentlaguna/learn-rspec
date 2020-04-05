@@ -1,4 +1,8 @@
+$LOAD_PATH << "."
+require 'crud'
+
 class Student
+  include Crud
   attr_accessor :first_name, :last_name, :username, :email, :password
   
   def initialize(firstname, lastname, username, email, password)
@@ -20,8 +24,5 @@ vincent = Student.new("Vincent", "Laguna", "vincentlaguna",
 john = Student.new("John", "Doe", "johndoe",
 "john@example.com", "4321")
 
-puts vincent
-puts john
-vincent.last_name = john.last_name
-puts "Vincent is altered!"
-puts vincent
+hashed_password = vincent.create_hash_digest(vincent.password)
+puts hashed_password
