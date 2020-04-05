@@ -79,6 +79,8 @@ projects as well as my exercises.
 (Ruby Practice)
 
 - BCrypt fundamentals
+- Creating modules for mixins within classes and .self
+- 
 
 #Implementation:
 
